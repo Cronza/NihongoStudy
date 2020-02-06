@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>おげんきですか:o genki desu ka:How are you?</item>
+        <item>これわどこですか:kore wa doko desu ka:Where is this?</item>
+        <item>いくらですか:ikura desu ka:How much?</item>
+        <item>いまなんじですか:ima nanji desu ka:What time is it?</item>
+        <item>かいぎわなんじからですか:kaigi wa nanji kara desu ka:What time does the meeting start?</item>
+    </string-array>
+</resources>

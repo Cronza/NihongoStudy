@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableLayout
+            android:id="@+id/ThemeButtonContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:isScrollContainer="true"
+            android:shrinkColumns="*">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <TextView
+                    android:id="@+id/BasicsHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/fundamentals_header"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="28sp"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/CharacterStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="character_study"
+                    android:text="@string/character_study_button_text"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/AdjectivesStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="adjective_study"
+                    android:text="@string/adjective_study_button_text"
+                    android:textSize="24sp" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/NounStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="noun_study"
+                    android:text="@string/noun_study_button_text"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/VerbStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="verb_study"
+                    android:text="@string/verb_study_button_text"
+                    android:textSize="24sp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/QuestionStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="question_study"
+                    android:text="@string/questions_study_button_text"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/PhrasesStudyButton"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="3dp"
+                    android:layout_weight="0.5"
+                    android:height="@android:dimen/thumbnail_height"
+                    android:background="@color/colorSecondary"
+                    android:onClick="TransitionToStudy"
+                    android:tag="phrase_study"
+                    android:text="@string/phrases_study_button_text"
+                    android:textSize="24sp" />
+
+            </TableRow>
+
+        </TableLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

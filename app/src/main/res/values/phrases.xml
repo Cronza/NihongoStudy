@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phrases">
+        <item>こんばんわ:Konbanwa:Good Evening</item>
+        <item>こんにちわ:Konnichiwa:Good Afternoon</item>
+        <item>まいしよう:Maishyou:Every week</item>
+        <item>まいにち:Mainichi:Everyday</item>
+        <item>いいですね:Ii desu ne:Thats good!</item>
+        <item>わかりません:Wakarimasen:I dont understand</item>
+        <item>わかりました。でわきをつけて:Wakarimashita. Dewa ki o tsukete:I see. Well then, take care</item>
+        <item>もう いちど いって ください:Mou ichido itte kudasai:Please say it again</item>
+        <item>この にもつを たくはいびんで おくって ください:Kono nimotsu o takuhaibin de okutte kudasai:Please send this luggage by courier</item>
+    </string-array>
+</resources>

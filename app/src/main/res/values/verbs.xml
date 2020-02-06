@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="verbs">
+        <item>かきます:Kakimasu:Write / To Write</item>
+        <item>のみます:Nomimasu:Drink / To Drink</item>
+        <item>たべます:Tabemasu:Eat / To Eat</item>
+        <item>あけます:Akemasu:Open / To Open</item>
+        <item>しめます:Shimemasu:Close / To Close</item>
+        <item>ならいます:Naraimasu:Learn / To Learn</item>
+        <item>あげます:Agemasu:Give / To Give</item>
+        <item>もらいます:Moraimasu:Receive / To Receive</item>
+        <item>かします:Kashimasu:Lend / To Lend</item>
+        <item>いきます:Ikimasu:Go / To Go</item>
+        <item>きます:Kimasu:Come / To Come</item>
+        <item>かえります:Kaerimasu:Return / To Return</item>
+        <item>かいます:Kaimasu:Buy / To Buy</item>
+        <item>まちます:Machimasu:Wait / To Wait</item>
+        <item>よみます:Yomimasu:Read / To Read</item>
+        <item>けします:Keshimasu:Turn Off / To Turn Off</item>
+        <item>つけます:Tsukemasu:Turn On / To Turn On</item>
+        <item>ききます:Kikimasu:Listen / To Listen</item>
+    </string-array>
+    <string-array name="verbs_te_form">
+        <item>かいて:Kaite:Write / To Write</item>
+        <item>のんで:Nonde:Drink / To Drink</item>
+        <item>たべて:Tabete:Eat / To Eat</item>
+        <item>あけて:Akete:Open / To Open</item>
+        <item>しめて:Shimete:Close / To Close</item>
+        <item>ならって:Naratte:Learn / To Learn</item>
+        //Missing TO GIVE
+        //Missing TO RECEIVE
+        //Missing TO LEND
+        <item>いって:Itte:Go / To Go</item>
+        <item>きて:Kite:Come / To Come</item>
+        <item>かえって:Kaette:Return / To Return</item>
+        <item>かって:Katte:Buy / To Buy</item>
+        <item>まって:Matte:Wait / To Wait</item>
+        <item>よんで:Yonde:Read / To Read</item>
+        <item>けして:Keshite:Turn Off / To Turn Off</item>
+        <item>つけて:Tsukete:Turn On / To Turn On</item>
+        <item>きいて:Kiite:Listen / To Listen</item>
+    </string-array>
+    <string-array name="verbs_02">
+        <item>まがります:Magarimasu:Turn / To Turn</item>
+        <item>とめます:Tomemasu:Stop, Park / To Stop, Park</item>
+        <item>いいます:Iimasu:Say / To Say</item>
+        <item>みせます:Misemasu:Show / To Show</item>
+        <item>おしえます:Oshiemasu:Tell / To Tell</item>
+        <item>もってきます:Mottekimasu:Bring / To Bring</item>
+        <item>とどけます:Todokemasu:Deliver / To Deliver</item>
+    </string-array>
+    <string-array name="verbs_02_te_form">
+        <item>まがって:Magatte:Turn / To Turn</item>
+        <item>とめて:Tomete:Stop, Park / To Stop, Park</item>
+        <item>いって:Itte:Say / To Say</item>
+        <item>みせて:Misete:Show / To Show</item>
+        <item>おしえて:Oshiete:Tell / To Tell</item>
+        <item>もってきて:Mottekite:Bring / To Bring</item>
+        <item>とどけて:Todokete:Deliver / To Deliver</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NihongouStudy</string>/
+    <!-- HEADER -->
+    <string name="japanese_header">Japanese Characters:</string>
+    <string name="romanji_header">Romanji:</string>
+    <string name="translation_header">English:</string>
+    <string name="options_header">Categories:</string>
+    <string name="fundamentals_header">Fundamentals</string>
+    <string name="themes_header">Themed Study</string>
+    <!-- *** BUTTONS *** -->
+    <!-- STUDY MENU -->
+    <string name="show_english_button_text">English</string>
+    <string name="show_romanji_button_text">Romanji</string>
+    <string name="next_button_text">Next</string>
+    <string name="back_button_text">Back</string>
+    <string name="random_button_text">Enable Randomize</string>
+    <!-- MAIN MENU -->
+    <string name="character_study_button_text">Character Study</string>
+    <string name="adjective_study_button_text">Adjectives</string>
+    <string name="noun_study_button_text">Nouns</string>
+    <string name="verb_study_button_text">Verbs</string>
+    <string name="questions_study_button_text">Questions</string>
+    <string name="phrases_study_button_text">Phrases</string>
+    <string name="going_to_work_button_text">Going to Work</string>
+    <string name="ordering_button_text">Ordering at a Store</string>
+
+</resources>

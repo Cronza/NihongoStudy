@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="character_study">
+        <item>Hiragana</item>
+        <item>Katakana</item>
+    </string-array>
+    <string-array name="adjective_study">
+        <item>Adjectives</item>
+    </string-array>
+    <string-array name="noun_study">
+        <item>Nouns</item>
+        <item>Communication_And_Delivery</item>
+    </string-array>
+    <string-array name="verb_study">
+        <item>Verbs</item>
+        <item>Verbs_Te_Form</item>
+        <item>Verbs_02</item>
+        <item>Verbs_02_Te_Form</item>
+    </string-array>
+    <string-array name="question_study">
+        <item>Questions</item>
+    </string-array>
+    <string-array name="phrase_study">
+        <item>Phrases</item>
+    </string-array>
+</resources>

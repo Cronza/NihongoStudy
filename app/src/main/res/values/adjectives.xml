@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adjectives">
+        <item>ばか:Baka:Stupid / Idiot</item>
+        <item>おいしい:Oishii:Delicious</item>
+        <item>やすい:Yasui:Inexpensive</item>
+        <item>おおきいです:Ōki:Big</item>
+        <item>ちさい:Chīsai:Small</item>
+        <item>たかい:Takai:Expensive</item>
+        <item>あたらし:Atarashi:New</item>
+        <item>ふるい:Furui:Old</item>
+        <item>むずかし:Muzukashi:Difficult</item>
+        <item>やさし:Yasashi:Easy</item>
+        <item>こわい:Kowai:Scary</item>
+        <item>いそがし:Isogashi:Busy</item>
+        <item>ちかい:Chikai:Nearby (Adjective)</item>
+        <item>とおい:Tōi:Far (Adjective)</item>
+    </string-array>
+    <string-array name="week">
+    </string-array>
+</resources>

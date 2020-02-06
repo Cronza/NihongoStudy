@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nouns">
+        <item>くるま:Kuruma:Car</item>
+        <item>けいたい:Keitai:Cellphone</item>
+        <item>おとうさん:Otousan:Father</item>
+        <item>おかあさん:Okaasan:Mother</item>
+        <item>おにいさん:Oniisan:Big Brother</item>
+        <item>おねえさん:Oneesan:Big Sister</item>
+        <item>いもと:Imoto:Little Sister</item>
+        <item>おとと:Ototo:Little Brother</item>
+        <item>とけい:Tokei:Watch</item>
+        <item>ギター:Gitā-:Guitar</item>
+        <item>コーヒー:Kōhī:Coffee</item>
+        <item>はな:Hana:Flower</item>
+        <item>ぎんこ:Ginko:Bank</item>
+        <item>きって:Kitte:Stamp</item>
+        <item>うち:Uchi:Home</item>
+        <item>ともだち:Tomodachi:Friend</item>
+        <item>しんぶん:Shinbun:Newspaper</item>
+        <item>やま:Yama:Mountain</item>
+        <item>いちがつ:Ichigatsu:January</item>
+        <item>にがつ:Nigatsu:February</item>
+        <item>さんがつ:Sangatsu:March</item>
+        <item>しがつ:Shigatsu:April</item>
+        <item>ごがつ:Gogatsu:May</item>
+        <item>ろくがつ:Rokugatsu:June</item>
+        <item>しちがつ:Shichigatsu:July</item>
+        <item>はちがつ:Hachigatsu:August</item>
+        <item>くがつ:Kugatsu:September</item>
+        <item>じゅうがつ:Juugatsu:October</item>
+        <item>じゅういちがつ:Juuichigatsu:November</item>
+        <item>じゅうにがつ:Juunigatsu:December</item>
+        <item>おちや:Ocha:Tea</item>
+        <item>たんじょび:Tanjōbi:Birthday</item>
+        <item>フランス:Furansu:France</item>
+        <item>ししゃ:Shisha:Office Branch</item>
+        <item>でぱと:Depato:Department Store</item>
+        <item>でんわ:Denwa:Phone</item>
+        <item>ミルク:Miruku:Milk</item>
+        <item>ほん:Hon:Book</item>
+        <item>バナナ:Banana:Banana</item>
+        <item>えんぴつ:Enpitsu:Pencil</item>
+        <item>ノート:Nōto:Notebook</item>
+        <item>セーター:Sētā:Sweater</item>
+        <item>いす:Isu:Chair</item>
+        <item>ひと:Hito:Person</item>
+        <item>ひこうき:Hikouki:Airplane</item>
+        <item>タイヤ:Taiya:Tire</item>
+        <item>テーブル:Tēburu</item>
+        <item>いっかい:Ikkai:First floor</item>
+        <item>れいぞうこ:Reizouko:Refrigerator</item>
+        <item>うえ:Ue:On top</item>
+        <item>ちかく:Chikaku:Nearby (Noun)</item>
+        <item>まえ:Mae:In front of</item>
+        <item>うしろ:Ushiro:Behind</item>
+        <item>なか:Naka:Inside</item>
+        <item>した:Shita:Under</item>
+        <item>ひだり:Hidari:Left</item>
+        <item>みぎ:Migi:Right</item>
+        <item>となり:Tonari:Beside</item>
+        <item>ここ:Koko:Here</item>
+    </string-array>
+    <string-array name="communication_and_delivery">
+        <item>ファックス:Fakkusu:Fax</item>
+        <item>こうくうびん:Koukuubin:Air mail</item>
+        <item>ふなびん:Funabin:Surface mail</item>
+        <item>たくはいびん:Takuhaibin:Courier Service</item>
+    </string-array>
+</resources>
